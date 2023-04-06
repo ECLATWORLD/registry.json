@@ -1,0 +1,7 @@
+
+<input id="js-chain-id" class="d-none" value="165279" />
+<input id="js-coin-name" class="d-none" value="ECLAT" />
+
+<input id="js-subnetwork" class="d-none" value="ECLAT Mainnet" />
+<input id="js-json-rpc" class="d-none" value="https://mainnet-rpc.eclatscan.com" />
+<li>
